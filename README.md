@@ -2,5 +2,5 @@
  DS EAFIT
 
 Hola! 
-En este repositorio se encotrara todo lo relacionado a DS EAFIT.
+En este repositorio se encotrará todo lo relacionado a DS EAFIT.
 --...- .- -.-- ..- -.. .- -.-.-- / . ... - --- -.-- / . -... .-. .. --- .-.-.-
